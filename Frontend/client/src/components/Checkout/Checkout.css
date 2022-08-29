@@ -1,0 +1,26 @@
+
+.container{
+
+margin-top: 500px  
+margin-left: -195px  
+}
+#paytxt{
+margin-left: 210px  
+margin-top: 20px  
+font-weight: bold;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.type4{
+
+margin-top: 500px  
+}
+
+
+.btn_checkout{
+  background: transparent;
+  color: black;
+  margin-left: -250px;
+  border-color: black;
+  border-width: 4px;
+  margin-top: 20px;
+}

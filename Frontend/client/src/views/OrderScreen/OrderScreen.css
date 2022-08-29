@@ -1,0 +1,171 @@
+
+.pCname,.pAdd,.pTrx{
+  font-family: monospace  
+}
+
+.pTname{
+    font-family: monospace  
+
+}
+.pAmount{
+
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px   
+}
+.pMsg{
+
+    font-family: 'Roboto Slab', serif;
+    font-size: 16px   
+
+}
+.pMsg2{
+
+  font-family: 'Roboto Slab';
+  font-size: 13px   
+
+}
+
+#fixit{
+
+   margin-top: 40px  
+}
+
+#sphr{
+
+ 
+  color: #d40000;
+  height: 6px  
+  width: 100%  
+
+}
+ 
+
+h1{
+
+    font-size: 15px  
+    font-family:  serif;
+    
+}
+
+ch1{
+
+    font-family:  monospace;
+    font-weight: 600;
+    color: black;
+    font-size: 20px;
+}
+
+h2{
+
+    font-size: 30px  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
+    margin-top: 20px;
+}
+
+.orderScreenHolder{
+
+  background-color: transparent;
+  margin-top: -20px; 
+  /* width: 1200px   */
+
+
+}
+
+.flex-container{
+
+
+  background-color: transparent;
+  text-align: center;;
+  margin-top: 50px;
+  
+}
+
+.items {
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.pp{
+    background:  white;
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    padding-top: 5px;
+
+}
+
+.pp2{
+
+    color: white;
+}
+.baal{
+  margin-left: -400px;
+  margin-top: 200px;
+}
+
+#line{
+  width : 100px;
+}
+
+
+.h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    color: #ffffff;
+    text-decoration: none;
+    display: inline;
+    letter-spacing: -0.02em;
+    word-spacing: -0.02em;
+    line-height: 1;
+    vertical-align: middle;
+    margin-top: 80px;
+    margin-left: 8px;
+}
+.ExtendedOrder{
+
+   margin-left: -500px;
+   margin-top: -150px;
+   width: 400px;
+    
+}
+.fixarea{
+  height: 35px;
+  width: 100px  
+  background-color:rgb(50, 26, 155)  
+  vertical-align: middle;
+  color: aliceblue  
+  /* margin-top: -200px; */
+  margin-left: 480px;
+  margin-bottom: -150px;
+  margin-top: -60px;
+  
+  
+}
+#fixt1{
+
+   margin-top: 25px  
+}
+
+#amountSP{
+   font-size: 22px;
+   font-weight: 900 ;
+}
+
+
+
+.button{
+  margin-top: -900px;
+  margin-left: -350px;
+  height: 50px;
+}
+
+.btn{
+  margin-top: -100px;
+  margin-left: -350px;
+}
+
+h6{
+  font-size: 20px;
+  margin-top: 20px;
+}

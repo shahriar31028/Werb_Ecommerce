@@ -1,0 +1,105 @@
+
+.admin-login {
+  margin: -10px;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url('https://fashionweekonline.com/wp-content/uploads/2022/01/istockphoto-1249219777-170667a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+body {
+  background-image: url('https://fashionweekonline.com/wp-content/uploads/2022/01/istockphoto-1249219777-170667a.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+.fixtex1{
+  margin-top: -350px;
+  margin-left: 100px;
+  font-size: 60px;
+}
+
+h1{
+  font-family:  'Arial Narrow Bold', sans-serif  
+}
+#subBut{
+   
+  position: relative;
+  background-color: #000;
+  color: #fff  ;
+  font-family: 'Courier New', Courier, monospace ; 
+  width: 80px;
+}
+ 
+.center {
+  
+  padding: 50px 50px;
+  border-radius: 10px;
+  background: transparent  
+  
+}
+.center h1 {
+  font-size: 2em;
+  /* border-left: 5px solid rgb(244, 14, 44); */
+  padding: 10px;
+  color: #000;
+  letter-spacing: 5px;
+  margin-bottom: 60px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+.inputbox{
+  width: 400px;
+  height : 40px;
+  margin-left: 10px;
+  background-Color: transparent;
+  border-Color: black;
+  border-Width: 2px;
+  /* margin-left: -180px   */
+  margin-top: 30px;;
+
+}
+
+.something{
+  margin-top: 400px;
+}
+.center .inputbox {
+  position: relative;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 50px;
+}
+.center .inputbox input {
+   position: absolute; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  border: 2px solid #000;
+  outline: none;
+  background: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 1.2em;
+}
+.center .inputbox:last-child {
+  margin-bottom: 0;
+}
+.center .inputbox span {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-size: 1em;
+  transition: 0.6s;
+  font-family: sans-serif;
+}
+  .center .inputbox input:focus ~ span,
+.center .inputbox input:valid ~ span {
+  transform: translateX(-13px) translateY(-35px);
+  font-size: 1em;
+}
