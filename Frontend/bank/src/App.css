@@ -1,0 +1,160 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+ 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-weight: 100;
+  font-style: italic;
+  background-image: url('https://thumbs.dreamstime.com/b/banking-business-banner-finance-savings-abstract-silhouette-city-background-vector-illustration-84498592.jpg');
+  background-repeat: no-repeat;
+  /* opacity: 0.2; */
+  background-size: cover;
+} 
+
+
+.login {
+  width: 300px;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 500px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+.email {
+  height: 30px;
+  width: 300px;
+  margin-top: 20px;
+  border-color: #000;
+}
+.password {
+  height: 30px;
+  width: 300px;
+  margin-top: 20px;
+  border-color: #000;
+}
+
+
+a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  font-size: 12px;
+}
+
+t1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 200px;
+  
+}
+
+
+.padding {
+  padding: 3rem;
+  margin-left: 200px
+}
+
+
+h5 {
+  line-height: 30px;
+  font-size: 50px;
+  margin-top: 80px;
+}
+
+
+.text-center {
+  text-align: center 
+}
+.h6{
+  color: #000;
+  font-size: 30px;
+  margin-top: 20px;
+  text-align: center;
+}
+h3{
+  color: #182227;
+  font-family: "Cursive";
+  font-weight: 400;
+  margin-left: 50px;
+  text-align: center;
+  margin-top: 10px;
+}
+small{
+  color: #0b0c0c;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: 500;
+  margin-left: -270px;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.divbox {
+
+margin-left: 400px;
+width: 600px;
+height: 200px;
+text-align: center;
+font-size: 22px;
+
+}
+
+.button{
+  margin-top: 25px;
+  width: 80px;
+  height: 30px;
+  cursor: pointer;
+}
+.logout{
+  margin-top: 10px;
+  width: 150px;
+  height: 60px;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 50px;
+  margin-bottom: 1rem
+}
+.something{
+
+  margin-left: -10px;
+}
+#logout{
+
+  margin-top: 20px ;
+  min-width: 150px;
+  margin-left: 500px;
+  color: #0a0a0a;
+  font-size: 18px;
+}
